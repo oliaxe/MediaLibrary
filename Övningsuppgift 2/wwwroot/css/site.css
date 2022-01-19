@@ -1,0 +1,35 @@
+body {
+    background-color: #343a40;
+}
+
+h1 {
+    color: rgb(129, 182, 160);
+}
+
+table {
+    border-color: rgb(148, 172, 141);
+}
+
+tr {
+    color: rgb(99, 187, 150);
+}
+
+td {
+    color: rgb(129, 182, 160);
+}
+
+#edit {
+    background-color: rgb(112, 153, 108);
+}
+
+#delete {
+    background-color: rgb(187, 165, 168);
+}
+
+label {
+    color: rgb(129, 182, 160);
+}
+
+.form-control {
+    background-color: #BEBEBE;
+}
